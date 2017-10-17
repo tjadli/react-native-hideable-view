@@ -10,10 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/tjadli/react-native-hideable-view.git"
   },
-  "dependencies": {
-    "react": ">=15.2.0",
-    "react-native": ">=0.48.0"
-  },
   "keywords": [
     "react-native",
     "hide",
